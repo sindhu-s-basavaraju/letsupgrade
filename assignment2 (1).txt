@@ -1,0 +1,128 @@
+Day 02
+Assignment  02
+
+Agenda of the second day class
+• Basic python syntax
+• python variables and assignment statement 
+• python operators 
+
+•python basic syntax
+Back slash
+triple quotes
+string inside the quotes
+escape sequence of string
+formatted output
+
+Back slash 
+ex: print("hello \
+python")
+output : hello python
+
+triple quote
+ex: print (""" (")
+("") """)
+output: (")
+("")
+
+string inside the quote
+ex: print ('hello world')
+output: hello world
+
+escape sequence of string
+ex:("hello \n world")
+output: hello
+world
+
+formatted output 
+ex: name="xyz" marks="90"
+print("name of person", name,"marks",marks)
+output: name of person xyz  marks 90
+
+•python variables 
+variable means linking of the data to a name and also refers to the memory location  that contains the data.
+
+rules to define a variable 
+°python is case sensitive and hence variables are also case sensitive. 
+°a variable cannot start with a number. 
+°a variable is assigned to data by using the assignment operator. 
+
+•assignment statements
+<variable name>=<data>example 
+x=y=z=20
+
+•types of operators 
+°arithmetic operators 
+°assignment operators 
+°bitwise operators
+°logical operators
+°membership operators 
+°identity operators
+
+arithmetic 
+operator  description 
+     ** :          power 
+       * :          multiplication 
+       / :          division
+      % :          modulus
+      + :          addition
+       - :          subtraction 
+     // :           floor division
+
+comparison 
+==    : eqales
+<       : less than 
+>       : greater than 
+<=     : less than or equal to
+>=     : greater than or equal to
+!=      : not equal to
+
+assignment 
+=        : a=b
++=      : a+=b
+-=       : a-=b
+*=      : a*=b
+/=      : a/=b
+**=    : a**=b
+
+bit wise 
+|     : bitwise OR
+&    : bitwise AND
+~    : binary one's complement 
+^     : bitwise XOR
+<<   : binary left shift 
+>>   : binary right shift
+
+logical
+T true 
+F false 
+AND
+          T T T
+          T F F 
+           F T F
+           F F F
+OR
+          T T T
+           T F T
+            F T T
+             F F F
+NOT
+            T F
+             F T
+
+membership 
+in : str1="python"
+"p" in str1  
+true
+not in : "a" not in str1
+ture
+     
+identity 
+is and is not
+
+operator precedence
++ -     : addition and substraction
+* /     : multiplication and division 
++×     : positive 
+**      : exponentiation
+ex: 10+10/29*4
+output: 11.37931
