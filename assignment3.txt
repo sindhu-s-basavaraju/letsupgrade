@@ -1,0 +1,42 @@
+Day 03
+
+Assignment  03
+
+Question 1:
+Find sum of n numbers with the help of while loop
+
+n=int(input("enter a number:"))
+sum1=0
+while (n>0):
+     sum1=sum1+n
+     n=n-1
+print("The sum of n numbers is",sum1)
+
+Output:
+enter a number:15
+The sum of n numbers is 120
+
+Question 2:
+Program to check if number is prime or not
+
+n=int(input("enter a number :"))
+i=2
+flag=0
+while(i<n):
+          if(n%i==0):
+             flag=1
+             break
+          else:
+                 i=i+1
+if(flag==0):
+         print ("prime number")
+else:
+       print("not prime number")
+
+
+Output:
+enter a number: 3 
+Prime number 
+
+enter a number: 4
+not prime number
