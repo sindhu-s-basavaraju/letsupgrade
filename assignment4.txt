@@ -1,0 +1,31 @@
+Day 04.
+Assignment  04.
+01. find all accarence of the sub string in the given string. 
+"What we think we become we are python programmer".
+print("enter a string")
+str1 = "what we think we become we are python programmer "
+print ("enter a finding word")
+findword = input()
+str1.find (find word)
+
+               another one
+
+str2 = " good morning to all "
+str2.find(to)
+
+02.
+islower( )
+isupper( )
+with diffrent kind of strings.
+n = 5
+each = 1
+while each <=n:
+print ("enter a string ")
+str3=input ( )
+str3.isupper( )
+str3.islower( )
+
+
+
+
+
