@@ -1,0 +1,14 @@
+
+Day 06.
+
+Assignment 06.
+
+ist2= ['a','b','c','d','e']
+list1= [1,2,3,4,5,6,7,8]
+result = {}
+for key in list2:
+    for values in list1:
+        result[key] = values
+        list1.remove(values)
+        break
+print(str(result))
