@@ -1,0 +1,23 @@
+
+Day 01
+
+Assignment 01
+
+1. What is PYTHON? What are the ways to install PYTHON?
+
+* PYTHON is a general purpose programming language developed by Guido Van Rossum in 1991.
+* Some key features of PYTHON is free and open source, object oriented language, easy to learn and use.
+
+Ways to install
+* PYTHON can be easily downloaded from the official website python.org and can be installed.
+* Download Anaconda software and install.
+
+2. What are Code Environments? Types?
+
+* Code Environment is a place where people can write the code, compile and execute the code to view the result.
+* A code environment is a standalone and self-contained environment to run PYTHON or R code. Each code environment has its own set of packages.
+
+Types :
+1. Text Editors.
+2. Full IDEs.
+3. Notebook Environments.
